@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\bin\Debug\Sistema Edu atividade.exe.config
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\bin\Debug\Sistema Edu atividade.exe
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\bin\Debug\Sistema Edu atividade.pdb
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\App.g.cs
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade_MarkupCompile.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade_MarkupCompile.lref
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.g.resources
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema_Edu_atividade.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.exe
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Sistema Edu atividade\Sistema Edu atividade\obj\Debug\Sistema Edu atividade.pdb

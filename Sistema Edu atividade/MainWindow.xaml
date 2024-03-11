@@ -1,0 +1,20 @@
+﻿<Window x:Class="Sistema_Edu_atividade.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sistema_Edu_atividade"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFD2C9C5">
+        <Rectangle HorizontalAlignment="Left" Height="434" Stroke="Black" VerticalAlignment="Center" Width="327" Margin="473,0,0,0" Fill="#FF8C0712"/>
+        <Image HorizontalAlignment="Left" Height="535" Margin="10,-14,0,0" VerticalAlignment="Top" Width="462" Source="/Logo universidade elegante vermelho .png"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="594,335,0,0" VerticalAlignment="Top" Click="Button_Click" FontFamily="Arial Rounded MT Bold" FontSize="18" Foreground="#FF8C0712" Height="29" Width="86" Background="#FFEDEDED" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Margin="549,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Height="24" Background="#FFEDEDED"/>
+        <TextBox HorizontalAlignment="Left" Margin="549,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Height="24" Background="#FFEDEDED"/>
+        <Label Content="Usuário:" HorizontalAlignment="Left" Margin="479,171,0,0" VerticalAlignment="Top" FontFamily="Arial Rounded MT Bold" FontSize="14" Foreground="White" RenderTransformOrigin="-0.108,2.348"/>
+        <Label Content="Senha:" HorizontalAlignment="Left" Margin="490,235,0,0" VerticalAlignment="Top" FontFamily="Arial Rounded MT Bold" FontSize="14" Foreground="White" RenderTransformOrigin="-0.108,2.348"/>
+        <Image HorizontalAlignment="Left" Height="201" Margin="542,-6,0,0" VerticalAlignment="Top" Width="190" Source="/Logo universidade elegante vermelho  (1).png"/>
+
+    </Grid>
+</Window>
